@@ -31,8 +31,8 @@ All of these are **extremely** wordy and are best for reference if you run acros
 ## Practice
 - [Over The Wire Bandit](https://overthewire.org/wargames/bandit/)
 - [Jason Dion](https://www.udemy.com/course/linux-essentials-practice-exams/) I recommend his practice tests not the videos but many swear by his videos.
-- [LabEx Linux Jopurney] (https://labex.io/linuxjourney)
-- [LabEx Linux] (https://labex.io/learn/linux)
+- [LabEx Linux Jopurney](https://labex.io/linuxjourney)
+- [LabEx Linux](https://labex.io/learn/linux)
 - [KodeCloud](https://kodekloud.com/studio/labs/linux)
 - [Practice Test](https://theprimoris.github.io/LPI-Essentials-Practice/) Another Reddit special. Do with it as you please but do not recommend just memorizing things. 
 
