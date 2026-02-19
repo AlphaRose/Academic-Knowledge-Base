@@ -6,7 +6,7 @@
 **Credits:**  3 CU
 **Difficulty (1–5):**  1.5
 **Estimated Weekly Hours:**  4-8 (Depending on Prior Exposure)
-**Assessment Type:** Certification - LPIC-1
+**Assessment Type:** Certification - LPI Linux Essential
 
 This course focuses on:
 - Linux operating system fundamentals  
