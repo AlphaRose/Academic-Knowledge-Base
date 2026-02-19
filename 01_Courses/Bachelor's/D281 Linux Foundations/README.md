@@ -27,12 +27,12 @@ Any pathway you take from Computer Science you will likely need some level of Li
 ---
 ## Resources
 
-Additional references, documentation, and helpful materials are listed in `Resources.md`.
+Additional references, documentation, and helpful materials are listed in [`Resources.md`](./Resources.md).
 
 ---
 ## Course Review
 
-A transparent and detailed review of this course — including pacing, difficulty, challenges, and advice — is available in `Course_Review.md`.
+A transparent and detailed review of this course — including pacing, difficulty, challenges, and advice — is available in [`Course_Review.md`](./Course_Review.md).
 
 ---
 ## Reflection
